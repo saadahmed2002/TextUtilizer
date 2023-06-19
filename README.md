@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+ It is a free online platform that can be used by anyone who needs to manipulate text in any way. You can use Text Utilizer to convert your text to uppercase or lowercase, capitalize the first letter of each word, remove duplicate lines, and more. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
